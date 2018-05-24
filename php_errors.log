@@ -1,0 +1,112 @@
+[11-May-2017 06:08:19 UTC] PHP Warning:  include(connexionDB.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/traitement/traitement_inscription.php on line 3
+[11-May-2017 06:08:19 UTC] PHP Stack trace:
+[11-May-2017 06:08:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/traitement/traitement_inscription.php:0
+[11-May-2017 06:08:19 UTC] PHP Warning:  include(): Failed opening 'connexionDB.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/traitement/traitement_inscription.php on line 3
+[11-May-2017 06:08:19 UTC] PHP Stack trace:
+[11-May-2017 06:08:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/traitement/traitement_inscription.php:0
+[27-May-2017 08:51:12 UTC] PHP Warning:  include(connexionDB.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/traitement/traitement_trajet.php on line 3
+[27-May-2017 08:51:12 UTC] PHP Stack trace:
+[27-May-2017 08:51:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/traitement/traitement_trajet.php:0
+[27-May-2017 08:51:12 UTC] PHP Warning:  include(): Failed opening 'connexionDB.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/traitement/traitement_trajet.php on line 3
+[27-May-2017 08:51:12 UTC] PHP Stack trace:
+[27-May-2017 08:51:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/traitement/traitement_trajet.php:0
+[27-May-2017 08:51:12 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/traitement/traitement_trajet.php on line 46
+[27-May-2017 08:51:12 UTC] PHP Stack trace:
+[27-May-2017 08:51:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/traitement/traitement_trajet.php:0
+[27-May-2017 08:57:01 UTC] PHP Warning:  include(connexionDB.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/traitement/traitement_trajet.php on line 3
+[27-May-2017 08:57:01 UTC] PHP Stack trace:
+[27-May-2017 08:57:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/traitement/traitement_trajet.php:0
+[27-May-2017 08:57:01 UTC] PHP Warning:  include(): Failed opening 'connexionDB.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/traitement/traitement_trajet.php on line 3
+[27-May-2017 08:57:01 UTC] PHP Stack trace:
+[27-May-2017 08:57:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/traitement/traitement_trajet.php:0
+[27-May-2017 08:57:01 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/traitement/traitement_trajet.php on line 46
+[27-May-2017 08:57:01 UTC] PHP Stack trace:
+[27-May-2017 08:57:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/traitement/traitement_trajet.php:0
+[27-May-2017 08:58:09 UTC] PHP Warning:  include(connexionDB.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/traitement/traitement_trajet.php on line 3
+[27-May-2017 08:58:09 UTC] PHP Stack trace:
+[27-May-2017 08:58:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/traitement/traitement_trajet.php:0
+[27-May-2017 08:58:09 UTC] PHP Warning:  include(): Failed opening 'connexionDB.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/traitement/traitement_trajet.php on line 3
+[27-May-2017 08:58:09 UTC] PHP Stack trace:
+[27-May-2017 08:58:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/traitement/traitement_trajet.php:0
+[27-May-2017 09:08:03 UTC] PHP Warning:  include(connexionDB.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/traitement/traitement_trajet.php on line 3
+[27-May-2017 09:08:03 UTC] PHP Stack trace:
+[27-May-2017 09:08:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/traitement/traitement_trajet.php:0
+[27-May-2017 09:08:03 UTC] PHP Warning:  include(): Failed opening 'connexionDB.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/traitement/traitement_trajet.php on line 3
+[27-May-2017 09:08:03 UTC] PHP Stack trace:
+[27-May-2017 09:08:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/traitement/traitement_trajet.php:0
+[27-May-2017 09:08:03 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/traitement/traitement_trajet.php on line 46
+[27-May-2017 09:08:03 UTC] PHP Stack trace:
+[27-May-2017 09:08:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/traitement/traitement_trajet.php:0
+[27-May-2017 09:18:13 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/ubuntu/workspace/traitement/traitement_trajet.php on line 64
+[27-May-2017 09:18:13 UTC] PHP Stack trace:
+[27-May-2017 09:18:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/traitement/traitement_trajet.php:0
+[27-May-2017 09:18:13 UTC] PHP   2. PDOStatement->execute() /home/ubuntu/workspace/traitement/traitement_trajet.php:64
+[27-May-2017 09:18:53 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/ubuntu/workspace/traitement/traitement_trajet.php on line 64
+[27-May-2017 09:18:53 UTC] PHP Stack trace:
+[27-May-2017 09:18:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/traitement/traitement_trajet.php:0
+[27-May-2017 09:18:53 UTC] PHP   2. PDOStatement->execute() /home/ubuntu/workspace/traitement/traitement_trajet.php:64
+[27-May-2017 09:19:40 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/ubuntu/workspace/traitement/traitement_trajet.php on line 64
+[27-May-2017 09:19:40 UTC] PHP Stack trace:
+[27-May-2017 09:19:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/traitement/traitement_trajet.php:0
+[27-May-2017 09:19:40 UTC] PHP   2. PDOStatement->execute() /home/ubuntu/workspace/traitement/traitement_trajet.php:64
+[27-May-2017 09:20:14 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/ubuntu/workspace/traitement/traitement_trajet.php on line 64
+[27-May-2017 09:20:14 UTC] PHP Stack trace:
+[27-May-2017 09:20:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/traitement/traitement_trajet.php:0
+[27-May-2017 09:20:14 UTC] PHP   2. PDOStatement->execute() /home/ubuntu/workspace/traitement/traitement_trajet.php:64
+[27-May-2017 09:21:41 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/ubuntu/workspace/traitement/traitement_trajet.php on line 64
+[27-May-2017 09:21:41 UTC] PHP Stack trace:
+[27-May-2017 09:21:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/traitement/traitement_trajet.php:0
+[27-May-2017 09:21:41 UTC] PHP   2. PDOStatement->execute() /home/ubuntu/workspace/traitement/traitement_trajet.php:64
+[27-May-2017 09:35:29 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/ubuntu/workspace/traitement/traitement_trajet.php on line 64
+[27-May-2017 09:35:29 UTC] PHP Stack trace:
+[27-May-2017 09:35:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/traitement/traitement_trajet.php:0
+[27-May-2017 09:35:29 UTC] PHP   2. PDOStatement->execute() /home/ubuntu/workspace/traitement/traitement_trajet.php:64
+[27-May-2017 10:13:07 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/ubuntu/workspace/traitement/traitement_trajet.php on line 70
+[27-May-2017 10:13:07 UTC] PHP Stack trace:
+[27-May-2017 10:13:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/traitement/traitement_trajet.php:0
+[27-May-2017 10:13:07 UTC] PHP   2. PDOStatement->execute() /home/ubuntu/workspace/traitement/traitement_trajet.php:70
+[27-May-2017 11:02:13 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/ubuntu/workspace/traitement/traitement_trajet.php on line 70
+[27-May-2017 11:02:13 UTC] PHP Stack trace:
+[27-May-2017 11:02:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/traitement/traitement_trajet.php:0
+[27-May-2017 11:02:13 UTC] PHP   2. PDOStatement->execute() /home/ubuntu/workspace/traitement/traitement_trajet.php:70
+[27-May-2017 11:28:14 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home/ubuntu/workspace/traitement/traitement_trajet.php:70
+Stack trace:
+#0 /home/ubuntu/workspace/traitement/traitement_trajet.php(70): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/traitement/traitement_trajet.php on line 70
+[27-May-2017 11:32:02 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home/ubuntu/workspace/traitement/traitement_trajet.php:70
+Stack trace:
+#0 /home/ubuntu/workspace/traitement/traitement_trajet.php(70): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/traitement/traitement_trajet.php on line 70
+[27-May-2017 11:32:07 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home/ubuntu/workspace/traitement/traitement_trajet.php:70
+Stack trace:
+#0 /home/ubuntu/workspace/traitement/traitement_trajet.php(70): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/traitement/traitement_trajet.php on line 70
+[27-May-2017 11:35:33 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home/ubuntu/workspace/traitement/traitement_trajet.php:70
+Stack trace:
+#0 /home/ubuntu/workspace/traitement/traitement_trajet.php(70): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/traitement/traitement_trajet.php on line 70
+[27-May-2017 11:37:05 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home/ubuntu/workspace/traitement/traitement_trajet.php:70
+Stack trace:
+#0 /home/ubuntu/workspace/traitement/traitement_trajet.php(70): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/traitement/traitement_trajet.php on line 70
+[27-May-2017 11:37:25 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home/ubuntu/workspace/traitement/traitement_trajet.php:69
+Stack trace:
+#0 /home/ubuntu/workspace/traitement/traitement_trajet.php(69): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/traitement/traitement_trajet.php on line 69
+[27-May-2017 11:39:22 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home/ubuntu/workspace/traitement/traitement_trajet.php:69
+Stack trace:
+#0 /home/ubuntu/workspace/traitement/traitement_trajet.php(69): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/traitement/traitement_trajet.php on line 69
+[27-May-2017 11:41:22 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home/ubuntu/workspace/traitement/traitement_trajet.php:69
+Stack trace:
+#0 /home/ubuntu/workspace/traitement/traitement_trajet.php(69): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/traitement/traitement_trajet.php on line 69
+[27-May-2017 12:31:28 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/traitement/traitement_rtrajet.php on line 33

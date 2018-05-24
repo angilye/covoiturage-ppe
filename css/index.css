@@ -1,0 +1,131 @@
+body {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background: -webkit-linear-gradient(to bottom, black , white, #efefef); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to bottom, black , white ,#efefef); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  font-family: 'Raleway', Calibri, Arial, sans-serif;
+  margin: auto;
+  text-align: center;
+  }
+  
+@media (max-width: 992px) {
+  body {
+  padding-top: 0px;
+  background:white;
+  }
+}
+img
+{
+  width:100%;
+  max-height:700px
+}
+
+li .active
+{
+  background: #868686;
+  border-radius: 0px 0px 2px 2px ;
+}
+.navbar-brand
+{
+  font-size: 2em;
+  font-family: 'Oleo Script', cursive;
+}
+
+.navbar-nav
+{
+  font-size: 1.0em;
+}
+div .navbar
+{
+  background-color:black;
+  opacity:0.7;
+  
+}
+.navbar-inverse .navbar-nav>li>a
+{
+  color:white;
+  text-shadow: 0.2px 0.2px 0px white;
+  font-family: 'Oleo Script', cursive;
+}
+
+.navbar-inverse .navbar-brand {
+  color: #fcc500;
+}
+
+[class*="col-"], footer {
+  border-radius: 6px;
+  line-height: 40px;
+  text-align: center;
+}
+
+/* placement de l'icone voiture rouge pour la recherche trajet */
+#img_car
+{
+  position:absolute;
+  height:70px;
+  width:70px;
+  margin-top:-70px;
+  margin-left:-40px;
+}
+
+#fondDePage
+{
+  background-color:#efefef;
+}
+
+#miseEnFormeTitreEtSousTitre
+{
+  color:#f63f5b;
+  font-family: 'Oleo Script', cursive;
+}
+
+#titrePagePrincipal
+{
+  font-weight: bold;
+}
+
+.sousTitre
+{
+  padding-bottom:20px;
+}
+
+#fondPageRecherche
+{
+  background-color:white;
+  padding: 50px 50px 50px 60px;
+}
+
+.iconRondeAdresse
+{
+  background: url(https://d1ovtcjitiy70m.cloudfront.net/vi-1/images/homepage/2016/icon-circle.svg) no-repeat scroll 7px 7px;
+  padding-left:30px;
+}
+
+.iconCalendrier
+{
+  background: url(https://d1ovtcjitiy70m.cloudfront.net/vi-1/images/homepage/2016/icon-calendar.svg) no-repeat scroll 7px 7px;
+  padding-left:30px;
+}
+
+.boutonRecherche
+{
+  border-radius: 20px 20px 20px 20px;
+}
+
+#presentationRecherche
+{
+  padding-top:20px;
+  padding-bottom:40px;
+  background-color:white;
+  opacity:0.8;
+  margin-top:-140px;
+  border-radius:5px;
+  margin-bottom:190px;
+}
+
+@media (max-width: 992px) {
+  #presentationRecherche
+  {
+    margin-bottom: 50px;
+  }
+}
